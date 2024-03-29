@@ -1,0 +1,28 @@
+{
+  "name": "binary-sun-chaser",
+  "version": "1.0.0",
+  "description": "Chases suns in binary systems, providing astrophysical data and solar tracking in dual-star environments.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/binary-sun-chaser"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "cosmic-dawn-observer": "1.0.0",
+    "delta-moon-projector": "1.0.0",
+    "react": "1.0.0",
+    "react-dom": "1.0.0",
+    "socket.io": "1.0.0",
+    "web3-utils": "1.0.0",
+    "moment": "1.0.0",
+    "nodemon": "1.0.0",
+    "web3": "1.0.0"
+  }
+}
